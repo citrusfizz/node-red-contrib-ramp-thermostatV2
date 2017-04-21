@@ -17,7 +17,7 @@
     "author": "citrusfizz",
     "repository": {
       "type": "git",
-      "url": "https://github.com/citrusfizz/node-red-contrib-ramp-thermostat"
+      "url": "https://github.com/citrusfizz/node-red-contrib-ramp-thermostatV2/tree/master/ramp-thermostatV2"
     },
 
     "node-red"     : {
