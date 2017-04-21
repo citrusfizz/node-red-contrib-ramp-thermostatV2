@@ -1,9 +1,5 @@
 # ramp-thermostat
 
-[![NPM version][npm-image]][npm-url]
-
-[npm-image]: http://img.shields.io/npm/v/node-red-contrib-ramp-thermostat.svg
-[npm-url]: https://npmjs.org/package/node-red-contrib-ramp-thermostat
 
 A Node-RED contrib-node that emulates a thermostat.
 
